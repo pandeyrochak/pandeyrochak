@@ -1,4 +1,3 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 💫 About Me:
 ### Hi there 👋, I am Rochak Pandey
